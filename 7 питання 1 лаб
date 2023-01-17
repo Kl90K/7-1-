@@ -1,0 +1,17 @@
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    const int arrlen = 20; // N
+    int B[arrlen];
+    for(int i = 10; i < arrlen; i++)
+    {
+        cout<<"["<<i<<"] = ";
+        
+    }
+
+    
+}
